@@ -1,3 +1,5 @@
+package Model;
+
 public class Player {
 	PlayerHand righthand;
 	PlayerHand lefthand;
